@@ -1,0 +1,15 @@
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\bin\Debug\net7.0\p_3.exe
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\bin\Debug\net7.0\p_3.deps.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\bin\Debug\net7.0\p_3.runtimeconfig.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\bin\Debug\net7.0\p_3.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\bin\Debug\net7.0\p_3.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.csproj.AssemblyReference.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.AssemblyInfoInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.AssemblyInfo.cs
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.csproj.CoreCompileInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\refint\p_3.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\p_3.genruntimeconfig.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_3\p_3\obj\Debug\net7.0\ref\p_3.dll
